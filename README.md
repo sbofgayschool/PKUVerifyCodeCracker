@@ -4,10 +4,10 @@ You can get those verification codes randomly from http://elective.pku.edu.cn/el
 ### Package Requirments
 * PIL
 * requests
-* LibSVM
+* LibSVM<br>
 You can get the first two from pip and the last one from https://www.lfd.uci.edu/~gohlke/pythonlibs/<br>
 Besides, you can install the LibSVM from packages in ./Wheel/ by using wheel.<br>
-### File Description
+### File Descriptions
 The whole training process is in ./Train.py<br>
 Practical functions is in ./Function.py<br>
 Initial model is ./Train/model.<br>
