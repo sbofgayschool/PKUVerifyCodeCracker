@@ -1,4 +1,4 @@
-# TestPKUVerifyCode
+# PKUVerifyCodeCracker
 An automatic script to crack the verification code of PKU course selection website using LibSVM.<br>
 You can get those verification codes randomly from http://elective.pku.edu.cn/elective2008/DrawServlet.<br>
 ### Package Requirments
